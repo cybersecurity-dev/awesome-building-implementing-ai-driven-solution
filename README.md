@@ -15,4 +15,5 @@
 
 - [Keras](https://github.com/keras-team/keras) - Deep [Learning](https://keras.io/) for humans
 - [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic [neural networks](https://pytorch.org/) in Python with strong GPU acceleration.
+- [Scikit-learn](https://github.com/scikit-learn/scikit-learn) - [Scikit-learn](https://scikit-learn.org/stable/) is an open-source Python library widely used for machine learning.
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - An Open Source [Machine Learning Framework](https://www.tensorflow.org/) for Everyone.
