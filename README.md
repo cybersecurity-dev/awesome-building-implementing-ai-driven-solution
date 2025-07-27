@@ -11,7 +11,7 @@
 
 
 ### Library
-[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)](https://keras.io/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)](https://keras.io/)[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/)[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
 - [Keras](https://github.com/keras-team/keras) - Deep [Learning](https://keras.io/) for humans
 - [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic [neural networks](https://pytorch.org/) in Python with strong GPU acceleration.
