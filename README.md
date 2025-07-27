@@ -11,5 +11,6 @@
 
 
 ### Library
+- [Keras](https://github.com/keras-team/keras) - Deep [Learning](https://keras.io/) for humans
 - [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic [neural networks](https://pytorch.org/) in Python with strong GPU acceleration.
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - An Open Source [Machine Learning Framework](https://www.tensorflow.org/) for Everyone.
