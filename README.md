@@ -18,7 +18,9 @@ You can access some datasets from the link below:
 - [Awesome Smart Contract Datasets](https://github.com/cybersecurity-dev/awesome-smartcontract-datasets)
 
 ### 2. Data Preparation and Preprocessing
-
+#### 2.1 Data Cleaning
+#### 2.2 Feature Engineering
+#### 2.3 Data Transformation
 
 ##
 ### Library
