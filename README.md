@@ -30,6 +30,7 @@ You can access some datasets from the link below:
 - [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic [neural networks](https://pytorch.org/) in Python with strong GPU acceleration.
 - [Scikit-learn](https://github.com/scikit-learn/scikit-learn) - [Scikit-learn](https://scikit-learn.org/stable/) is an open-source Python library widely used for machine learning.
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - An Open Source [Machine Learning Framework](https://www.tensorflow.org/) for Everyone.
+- [XGBoost](https://github.com/dmlc/xgboost) - [XGBoost](https://xgboost.readthedocs.io/en/stable/) is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable.
 #### AutoML
 - [AutoKeras](https://github.com/keras-team/autokeras) - [AutoKeras](https://autokeras.com/): An AutoML system based on Keras.
 - [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - [Automatic architecture](https://automl.github.io/Auto-PyTorch) search and hyperparameter optimization for PyTorch.
