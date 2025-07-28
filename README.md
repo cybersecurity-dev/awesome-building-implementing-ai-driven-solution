@@ -9,7 +9,18 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+## AI Projects: Step by Steps
+AI process involves a series of steps to build, evaluate, and deploy a model that can learn from data and make predictions or decisions.
+### 1. Data Collection
+You can access some datasets from the link below:
+- [Awesome Benign Datasets](https://github.com/cybersecurity-dev/awesome-benign-datasets)
+- [Awesome Malware Datasets](https://github.com/cybersecurity-dev/awesome-malware-datasets)
+- [Awesome Smart Contract Datasets](https://github.com/cybersecurity-dev/awesome-smartcontract-datasets)
 
+### 2. Data Preparation and Preprocessing
+
+
+##
 ### Library
 [![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)](https://keras.io/)[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/)[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
