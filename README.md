@@ -31,5 +31,6 @@ You can access some datasets from the link below:
 - [Scikit-learn](https://github.com/scikit-learn/scikit-learn) - [Scikit-learn](https://scikit-learn.org/stable/) is an open-source Python library widely used for machine learning.
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - An Open Source [Machine Learning Framework](https://www.tensorflow.org/) for Everyone.
 #### AutoML
+- [AutoKeras](https://github.com/keras-team/autokeras) - [AutoKeras](https://autokeras.com/): An AutoML system based on Keras.
 - [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - [Automatic architecture](https://automl.github.io/Auto-PyTorch) search and hyperparameter optimization for PyTorch.
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - [Automated](https://automl.github.io/auto-sklearn/) Machine Learning with scikit-learn.
