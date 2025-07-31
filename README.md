@@ -24,14 +24,4 @@ You can access some datasets from the link below:
 
 ##
 ### Library
-[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)](https://keras.io/)[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/)[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-
-- [Keras](https://github.com/keras-team/keras) - Deep [Learning](https://keras.io/) for humans
-- [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic [neural networks](https://pytorch.org/) in Python with strong GPU acceleration.
-- [Scikit-learn](https://github.com/scikit-learn/scikit-learn) - [Scikit-learn](https://scikit-learn.org/stable/) is an open-source Python library widely used for machine learning.
-- [TensorFlow](https://github.com/tensorflow/tensorflow) - An Open Source [Machine Learning Framework](https://www.tensorflow.org/) for Everyone.
-- [XGBoost](https://github.com/dmlc/xgboost) - [XGBoost](https://xgboost.readthedocs.io/en/stable/) is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable.
-#### AutoML
-- [AutoKeras](https://github.com/keras-team/autokeras) - [AutoKeras](https://autokeras.com/): An AutoML system based on Keras.
-- [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - [Automatic architecture](https://automl.github.io/Auto-PyTorch) search and hyperparameter optimization for PyTorch.
-- [Auto-sklearn](https://github.com/automl/auto-sklearn) - [Automated](https://automl.github.io/auto-sklearn/) Machine Learning with scikit-learn.
+You can access the useful python libraries in [here](https://github.com/cybersecurity-dev/awesome-python-programming-language/?tab=readme-ov-file#library).
